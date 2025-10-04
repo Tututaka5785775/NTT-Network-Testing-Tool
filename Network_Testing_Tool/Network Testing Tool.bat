@@ -24,6 +24,7 @@ netstat -r
 pause
 
 getmac
+getmac /v
 
 pause
 
@@ -59,3 +60,4 @@ ping google.com
 tracert google.com
 
 pause > nul
+
