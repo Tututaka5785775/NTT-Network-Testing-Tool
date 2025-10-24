@@ -1,5 +1,5 @@
 @echo off
-color 0a
+
 title Network Testing Tool
 cls
 
@@ -60,4 +60,5 @@ ping google.com
 tracert google.com
 
 pause > nul
+
 
